@@ -38,8 +38,8 @@
       <list>
         <option value="$PROJECT_DIR$/Assets/Scripts/RotateCamera.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/PlayerController.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/SpawnManager.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Enemy.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/SpawnManager.cs" />
       </list>
     </option>
   </component>
@@ -84,7 +84,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1605808559046</updated>
-      <workItem from="1605808563255" duration="5212000" />
+      <workItem from="1605808563255" duration="6025000" />
     </task>
     <servers />
   </component>
